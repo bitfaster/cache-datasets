@@ -3,7 +3,7 @@ Data sets for testing cache algorithms.
 
 ## Arc
 
-PDF: [ARC: A SELF-TUNING, LOW OVERHEAD REPLACEMENT CACHE](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf).
+PDF: [ARC: A Self-Tuning, Low Overhead Replacement Cache](https://www.usenix.org/legacy/events/fast03/tech/full_papers/megiddo/megiddo.pdf).
 
 Data mirrored from [Dharmendra S. Modha's IBM page](https://researcher.watson.ibm.com/researcher/view_person_subpage.php?id=4700). The original links to dropbox can't be downloaded programatically without dropbox authentication.
 
