@@ -13,3 +13,8 @@ Nimrod Megiddo and Dharmendra S. Modha, "ARC: A Self-Tuning, Low Overhead Replac
 - Search: [S1.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/S1.lis.gz) [S2.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/S2.lis.gz) [S3.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/S3.lis.gz)
 - OLTP: [OLTP.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/OLTP.lis.gz)
 
+## LIRS
+
+PDF: [LIRS: An Efficient Low Inter-reference Recency Set Replacement Policy to Improve Buffer Cache Performance](http://web.cse.ohio-state.edu/hpcs/WWW/HTML/publications/papers/TR-02-6.pdf)
+
+- Glimpse: [gli.trace.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/gli.trace.gz)
