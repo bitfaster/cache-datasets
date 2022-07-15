@@ -1,5 +1,7 @@
 # cache-datasets
-Data sets for testing cache algorithms.
+Data sets for testing cache algorithms. 
+
+This source data enables replication of the [Caffeine efficiency](https://github.com/ben-manes/caffeine/wiki/Efficiency) tests.
 
 ## Arc
 
