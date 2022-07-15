@@ -9,5 +9,7 @@ Data mirrored from [Dharmendra S. Modha's IBM page](https://researcher.watson.ib
 
 Nimrod Megiddo and Dharmendra S. Modha, "ARC: A Self-Tuning, Low Overhead Replacement Cache," USENIX Conference on File and Storage Technologies (FAST 03), San Francisco, CA, pp. 115-130, March 31-April 2, 2003.
 
-- [OLTP.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/OLTP.lis.gz)
+- Database: [DS1.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/DS1.lis.gz)
+- Search: [S1.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/S1.lis.gz)
+- OLTP: [OLTP.lis.gz](https://github.com/bitfaster/cache-datasets/releases/download/v1.0/OLTP.lis.gz)
 
